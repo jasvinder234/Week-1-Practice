@@ -1,9 +1,9 @@
 # Computer Programming: Test Repo
 
-## Samuel Bennington
+## Jasvinder Singh
 
-### Group FS4F
-### Duncan Mullier
+### Group CS4B
+### Tony Jenkins
 
 This is a repo created just for testing.
 
